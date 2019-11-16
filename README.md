@@ -1,2 +1,2 @@
 # git-github
-for hadoop 
+this is for hadoop  tutorial
